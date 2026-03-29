@@ -39,3 +39,4 @@ This project is a practical implementation of **Quality 4.0** principles. By int
 2. Ensure you have the required libraries installed:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
+Author : Yusha Alhussein
